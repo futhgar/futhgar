@@ -44,4 +44,4 @@ I share what I learn — guides, tools, and the occasional war story from runnin
 
 *"The best technology work happens at the boundary between domains."*
 
-[💬 Work with me](https://guatulabs.com/contact) · [📖 Read the blog](https://guatulabs.dev)
+[💬 Work with me](https://guatulabs.com) · [📖 Read the blog](https://guatulabs.dev)
