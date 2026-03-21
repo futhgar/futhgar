@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey, I'm Josue 👋
 
-<!--
-**futhgar/futhgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agents and production infrastructure for industrial and mid-market companies. 10+ years across reliability engineering, industrial consulting, and building things that run 24/7.
 
-Here are some ideas to get you started:
+I share what I learn — guides, tools, and the occasional war story from running production systems on commodity hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-guatulabs.com-00d4aa?style=for-the-badge&logo=firefox&logoColor=white)](https://guatulabs.com)
+[![Blog](https://img.shields.io/badge/Blog-guatulabs.dev-4A6FA5?style=for-the-badge&logo=hashnode&logoColor=white)](https://guatulabs.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmaldonadorosa/)
+
+## 🔧 What I Build
+
+**AI Agent Systems** — Multi-agent platforms with cognitive memory, MCP servers, safety boundaries, and real-time infrastructure monitoring
+
+**Infrastructure** — Kubernetes clusters, GitOps pipelines, CI/CD, GPU passthrough, automated backups — all on bare metal
+
+**IIoT & Predictive Maintenance** — Sensor architectures, vibration analysis, analytics pipelines, condition monitoring
+
+**Developer Tools** — Custom IDEs, data processing tools, automation that saves hours
+
+## 🧰 Tech Stack
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+## 📌 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=homelab-guide&theme=dark)](https://github.com/futhgar/homelab-guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=mcp-server-template&theme=dark)](https://github.com/futhgar/mcp-server-template)
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futhgar&show_icons=true&count_private=true&theme=dark&hide=stars)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=futhgar&theme=dark)
+
+## 📝 Latest from the Blog
+
+> *Coming soon at [guatulabs.dev](https://guatulabs.dev)*
+
+---
+
+*"The best technology work happens at the boundary between domains."*
+
+[💬 Work with me](https://guatulabs.com/contact) · [📖 Read the blog](https://guatulabs.dev)
