@@ -36,12 +36,6 @@ I share what I learn — guides, tools, and the occasional war story from runnin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=homelab-guide&theme=dark)](https://github.com/futhgar/homelab-guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=mcp-server-template&theme=dark)](https://github.com/futhgar/mcp-server-template)
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futhgar&show_icons=true&count_private=true&theme=dark&hide=stars)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=futhgar&theme=dark)
-
 ## 📝 Latest from the Blog
 
 > *Coming soon at [guatulabs.dev](https://guatulabs.dev)*
