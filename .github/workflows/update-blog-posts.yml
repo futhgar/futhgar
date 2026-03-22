@@ -1,0 +1,81 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch RSS and update README
+        run: |
+          python3 << 'SCRIPT'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import re
+          from email.utils import parsedate_to_datetime
+
+          rss_url = "https://guatulabs.dev/rss.xml"
+          req = urllib.request.Request(rss_url, headers={"User-Agent": "GitHub-Actions-RSS"})
+
+          try:
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  rss_data = resp.read()
+          except Exception as e:
+              print(f"Failed to fetch RSS: {e}")
+              exit(0)
+
+          root = ET.fromstring(rss_data)
+          items = root.findall(".//item")[:5]
+
+          if not items:
+              print("No posts found in RSS feed")
+              exit(0)
+
+          posts = []
+          for item in items:
+              title = item.find("title").text
+              link = item.find("link").text
+              pub_date = item.find("pubDate")
+              if pub_date is not None and pub_date.text:
+                  dt = parsedate_to_datetime(pub_date.text)
+                  date_str = dt.strftime("%Y-%m-%d")
+              else:
+                  date_str = ""
+              entry = f"- [{title}]({link})"
+              if date_str:
+                  entry += f" ({date_str})"
+              posts.append(entry)
+
+          blog_section = "\n".join(posts)
+
+          with open("README.md", "r") as f:
+              readme = f.read()
+
+          pattern = r"(<!-- BLOG-POST-LIST:START -->).*?(<!-- BLOG-POST-LIST:END -->)"
+          replacement = rf"\1\n{blog_section}\n\2"
+          new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          if new_readme == readme:
+              print("No changes needed")
+              exit(0)
+
+          with open("README.md", "w") as f:
+              f.write(new_readme)
+          print("README updated with latest posts")
+          SCRIPT
+
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update blog posts from RSS feed"
+          git push

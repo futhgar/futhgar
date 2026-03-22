@@ -38,7 +38,9 @@ I share what I learn — guides, tools, and the occasional war story from runnin
 
 ## 📝 Latest from the Blog
 
-> *Coming soon at [guatulabs.dev](https://guatulabs.dev)*
+<!-- BLOG-POST-LIST:START -->
+- [Building a Production Homelab: Multi-Node Proxmox Cluster with Kubernetes](https://guatulabs.dev/posts/building-production-homelab/) (2026-03-21)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
