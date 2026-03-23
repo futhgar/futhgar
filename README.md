@@ -1,42 +1,39 @@
-# Hey, I'm Josue 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/futhgar/futhgar/main/banner.png" alt="Guatu Labs" width="100%" />
+</p>
 
-I build AI agents and production infrastructure for industrial and mid-market companies. 10+ years across reliability engineering, industrial consulting, and building things that run 24/7.
+I build AI agents and production infrastructure for industrial companies. 10+ years bridging the physical world — sensors, machines, factory floors — with intelligent automation that runs unsupervised.
 
-I share what I learn — guides, tools, and the occasional war story from running production systems on commodity hardware.
+I take on consulting projects when the problem is interesting. If you're figuring out how AI agents, predictive maintenance, or infrastructure automation could work for your business, [let's talk](https://guatulabs.com/contact).
 
-[![Website](https://img.shields.io/badge/Website-guatulabs.com-00d4aa?style=for-the-badge&logo=firefox&logoColor=white)](https://guatulabs.com)
-[![Blog](https://img.shields.io/badge/Blog-guatulabs.dev-4A6FA5?style=for-the-badge&logo=hashnode&logoColor=white)](https://guatulabs.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmaldonadorosa/)
+<p>
+  <a href="https://guatulabs.com"><img src="https://img.shields.io/badge/guatulabs.com-00d4aa?style=flat-square&logoColor=white" /></a>
+  <a href="https://guatulabs.dev"><img src="https://img.shields.io/badge/blog-guatulabs.dev-1a1a2e?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/jmaldonadorosa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
-## 🔧 What I Build
+---
 
-**AI Agent Systems** — Multi-agent platforms with cognitive memory, MCP servers, safety boundaries, and real-time infrastructure monitoring
+### What I work on
 
-**Infrastructure** — Kubernetes clusters, GitOps pipelines, CI/CD, GPU passthrough, automated backups — all on bare metal
+**AI Agent Systems** — Multi-agent platforms with MCP servers, cognitive memory, safety boundaries, and real-time infrastructure monitoring. Production systems, not demos.
 
-**IIoT & Predictive Maintenance** — Sensor architectures, vibration analysis, analytics pipelines, condition monitoring
+**Infrastructure** — Kubernetes on bare metal, GitOps with ArgoCD, CI/CD pipelines, GPU passthrough for LLM inference, automated everything.
 
-**Developer Tools** — Custom IDEs, data processing tools, automation that saves hours
+**IIoT & Predictive Maintenance** — Vibration analysis, sensor architectures, condition monitoring pipelines, and the analytics that keep machines running.
 
-## 🧰 Tech Stack
+**SkySpark & Building Analytics** — Custom Axon development, building automation integrations, and a purpose-built IDE for SkySpark.
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### Tech
 
-## 📌 Featured Projects
+`Python` `TypeScript` `Go` `Kubernetes` `ArgoCD` `OpenTofu` `Proxmox` `Prometheus` `Grafana` `PostgreSQL` `Qdrant` `FastMCP`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=homelab-guide&theme=dark)](https://github.com/futhgar/homelab-guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=mcp-server-template&theme=dark)](https://github.com/futhgar/mcp-server-template)
+### Projects
 
-## 📝 Latest from the Blog
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=homelab-guide&theme=dark&hide_border=true&bg_color=0a0a0f)](https://github.com/futhgar/homelab-guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=futhgar&repo=mcp-server-template&theme=dark&hide_border=true&bg_color=0a0a0f)](https://github.com/futhgar/mcp-server-template)
+
+### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Multi-Agent AI Systems: Architecture Patterns That Actually Work](https://guatulabs.dev/posts/multi-agent-ai-systems-architecture-patterns/) (2026-03-22)
@@ -47,6 +44,4 @@ I share what I learn — guides, tools, and the occasional war story from runnin
 
 ---
 
-*"The best technology work happens at the boundary between domains."*
-
-[💬 Work with me](https://guatulabs.com) · [📖 Read the blog](https://guatulabs.dev)
+<sub>The best technology work happens at the boundary between domains.</sub>
