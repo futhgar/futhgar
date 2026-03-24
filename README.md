@@ -22,8 +22,6 @@ I take on consulting projects when the problem is interesting. If you're figurin
 
 **IIoT & Predictive Maintenance** — Vibration analysis, sensor architectures, condition monitoring pipelines, and the analytics that keep machines running.
 
-**SkySpark & Building Analytics** — Custom Axon development, building automation integrations, and a purpose-built IDE for SkySpark.
-
 ### Tech
 
 `Python` `TypeScript` `Go` `Kubernetes` `ArgoCD` `OpenTofu` `Proxmox` `Prometheus` `Grafana` `PostgreSQL` `Qdrant` `FastMCP`
