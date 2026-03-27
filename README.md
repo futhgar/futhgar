@@ -34,6 +34,7 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [GPU Passthrough on Proxmox: A Field Guide to the Gotchas That Bit Me](https://guatulabs.dev/posts/gpu-passthrough-on-proxmox-gotcha-guide/) (2026-03-26)
 - [Multi-Agent AI Systems: Architecture Patterns That Actually Work](https://guatulabs.dev/posts/multi-agent-ai-systems-architecture-patterns/) (2026-03-22)
 - [GitOps for Homelabs: How ArgoCD App-of-Apps Scales Your Cluster](https://guatulabs.dev/posts/gitops-for-homelabs-argocd-app-of-apps/) (2026-03-22)
 - [Building MCP Servers with FastMCP: Stop Writing Boilerplate, Start Writing Tools](https://guatulabs.dev/posts/building-mcp-servers-with-fastmcp/) (2026-03-22)
