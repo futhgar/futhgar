@@ -38,7 +38,7 @@ I take on consulting projects when the problem is interesting. If you're figurin
 - [AMD Ryzen C-State Freezes: How `processor.max_cstate=1` Saved My Proxmox Node](https://guatulabs.dev/posts/amd-ryzen-c-state-freezes-the-processor-max-cstate-1-fix/) (2026-03-27)
 - [Kubernetes Storage on Bare Metal: Longhorn in Practice](https://guatulabs.dev/posts/kubernetes-storage-on-bare-metal-longhorn-in-practice/) (2026-03-27)
 - [GPU Passthrough on Proxmox: A Field Guide to the Gotchas That Bit Me](https://guatulabs.dev/posts/gpu-passthrough-on-proxmox-gotcha-guide/) (2026-03-26)
-- [GitOps for Homelabs: How ArgoCD App-of-Apps Scales Your Cluster](https://guatulabs.dev/posts/gitops-for-homelabs-argocd-app-of-apps/) (2026-03-22)
+- [Multi-Agent AI Systems: Architecture Patterns That Actually Work](https://guatulabs.dev/posts/multi-agent-ai-systems-architecture-patterns/) (2026-03-22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
