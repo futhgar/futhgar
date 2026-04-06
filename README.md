@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Attention Residuals: How Kimi Is Rethinking Transformer Depth](https://guatulabs.dev/posts/attention-residuals-how-kimi-is-rethinking-transformer-depth/) (2026-04-05)
 - [Helm fullnameOverride: Naming Sanity in ArgoCD](https://guatulabs.dev/posts/helm-fullnameoverride-naming-sanity-in-argocd/) (2026-04-01)
 - [NVIDIA Container Toolkit: Why the Default Runtime Matters](https://guatulabs.dev/posts/nvidia-container-toolkit-why-the-default-runtime-matters/) (2026-03-31)
 - [DOCP/XMP: Why Your Proxmox Node Runs at Half RAM Speed](https://guatulabs.dev/posts/docp-xmp-why-your-proxmox-node-runs-at-half-ram-speed/) (2026-03-28)
 - [AMD Ryzen C-State Freezes: How `processor.max_cstate=1` Saved My Proxmox Node](https://guatulabs.dev/posts/amd-ryzen-c-state-freezes-the-processor-max-cstate-1-fix/) (2026-03-27)
-- [Kubernetes Storage on Bare Metal: Longhorn in Practice](https://guatulabs.dev/posts/kubernetes-storage-on-bare-metal-longhorn-in-practice/) (2026-03-27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
