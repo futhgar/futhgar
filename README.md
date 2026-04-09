@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure as Code, but Automated: OpenTofu and GitHub Actions](https://guatulabs.dev/posts/automating-infrastructure-with-opentofu-and-github-actions/) (2026-04-08)
 - [Equipment Health Scoring: How One Number Made My Operators Stop Checking the Dashboard](https://guatulabs.dev/posts/equipment-health-scoring-one-number-your-operators-actually-check/) (2026-04-07)
 - [Pod Disruption Budgets: Why kubectl drain Gets Stuck on Longhorn](https://guatulabs.dev/posts/pod-disruption-budgets-why-kubectl-drain-gets-stuck-on-longhorn/) (2026-04-06)
 - [Attention Residuals: How Kimi Is Rethinking Transformer Depth](https://guatulabs.dev/posts/attention-residuals-how-kimi-is-rethinking-transformer-depth/) (2026-04-05)
 - [Helm fullnameOverride: Naming Sanity in ArgoCD](https://guatulabs.dev/posts/helm-fullnameoverride-naming-sanity-in-argocd/) (2026-04-01)
-- [NVIDIA Container Toolkit: Why the Default Runtime Matters](https://guatulabs.dev/posts/nvidia-container-toolkit-why-the-default-runtime-matters/) (2026-03-31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
