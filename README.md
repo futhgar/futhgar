@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Karpathy's LLM Wiki: A Production Homelab Implementation](https://guatulabs.dev/posts/building-karpathy-s-llm-wiki-a-production-homelab-implementation/) (2026-04-13)
+- [Proxmox API Tokens: Bash History Expansion and the ! Character](https://guatulabs.dev/posts/proxmox-api-tokens-bash-history-expansion-and-the-character/) (2026-04-11)
+- [AMD iGPU Stealing Your RAM: UMA Frame Buffer on Headless Servers](https://guatulabs.dev/posts/amd-igpu-stealing-your-ram-uma-frame-buffer-on-headless-servers/) (2026-04-10)
 - [Agent Credential Management: Two-Tier Service Accounts for Secure AI Agent Workflows](https://guatulabs.dev/posts/agent-credential-management-two-tier-service-accounts/) (2026-04-10)
 - [Infrastructure as Code, but Automated: OpenTofu and GitHub Actions](https://guatulabs.dev/posts/automating-infrastructure-with-opentofu-and-github-actions/) (2026-04-08)
-- [Equipment Health Scoring: How One Number Made My Operators Stop Checking the Dashboard](https://guatulabs.dev/posts/equipment-health-scoring-one-number-your-operators-actually-check/) (2026-04-07)
-- [Pod Disruption Budgets: Why kubectl drain Gets Stuck on Longhorn](https://guatulabs.dev/posts/pod-disruption-budgets-why-kubectl-drain-gets-stuck-on-longhorn/) (2026-04-06)
-- [Attention Residuals: How Kimi Is Rethinking Transformer Depth](https://guatulabs.dev/posts/attention-residuals-how-kimi-is-rethinking-transformer-depth/) (2026-04-05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
