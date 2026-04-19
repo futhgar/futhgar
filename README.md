@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Improving AI Infrastructure: How Your Homelab Wiki Updates Itself](https://guatulabs.dev/posts/self-improving-ai-infrastructure-how-your-homelab-wiki-updates-itself/) (2026-04-18)
 - [The 6-Layer Memory Architecture I Run for Claude Code](https://guatulabs.dev/posts/six-layer-memory-architecture-for-claude-code/) (2026-04-16)
 - [Building Karpathy's LLM Wiki: A Production Homelab Implementation](https://guatulabs.dev/posts/building-karpathy-s-llm-wiki-a-production-homelab-implementation/) (2026-04-13)
 - [Proxmox API Tokens: Bash History Expansion and the ! Character](https://guatulabs.dev/posts/proxmox-api-tokens-bash-history-expansion-and-the-character/) (2026-04-11)
 - [AMD iGPU Stealing Your RAM: UMA Frame Buffer on Headless Servers](https://guatulabs.dev/posts/amd-igpu-stealing-your-ram-uma-frame-buffer-on-headless-servers/) (2026-04-10)
-- [Agent Credential Management: Two-Tier Service Accounts for Secure AI Agent Workflows](https://guatulabs.dev/posts/agent-credential-management-two-tier-service-accounts/) (2026-04-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
