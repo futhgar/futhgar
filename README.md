@@ -35,10 +35,10 @@ I take on consulting projects when the problem is interesting. If you're figurin
 
 <!-- BLOG-POST-LIST:START -->
 - [MQTT Broker Selection: HiveMQ vs Mosquitto for Industrial Use](https://guatulabs.dev/posts/mqtt-broker-selection-hivemq-vs-mosquitto-for-industrial-use/) (2026-04-20)
+- [Wildcard DNS + ndots:5: The TLS Nightmare and How to Fix It](https://guatulabs.dev/posts/wildcard-dns-ndots-5-the-tls-nightmare-and-how-to-fix-it/) (2026-04-20)
 - [Self-Improving AI Infrastructure: How Your Homelab Wiki Updates Itself](https://guatulabs.dev/posts/self-improving-ai-infrastructure-how-your-homelab-wiki-updates-itself/) (2026-04-18)
 - [The 6-Layer Memory Architecture I Run for Claude Code](https://guatulabs.dev/posts/six-layer-memory-architecture-for-claude-code/) (2026-04-16)
 - [Building Karpathy's LLM Wiki: A Production Homelab Implementation](https://guatulabs.dev/posts/building-karpathy-s-llm-wiki-a-production-homelab-implementation/) (2026-04-13)
-- [Proxmox API Tokens: Bash History Expansion and the ! Character](https://guatulabs.dev/posts/proxmox-api-tokens-bash-history-expansion-and-the-character/) (2026-04-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
