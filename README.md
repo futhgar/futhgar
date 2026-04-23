@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [SealedSecrets Key Backup: Don't Lose Your Encryption Keys](https://guatulabs.dev/posts/sealedsecrets-key-backup-don-t-lose-your-encryption-keys/) (2026-04-22)
 - [Ollama on Kubernetes: Recreate Strategy and Single-GPU Deadlock](https://guatulabs.dev/posts/ollama-on-kubernetes-recreate-strategy-and-single-gpu-deadlock/) (2026-04-21)
 - [MQTT Broker Selection: HiveMQ vs Mosquitto for Industrial Use](https://guatulabs.dev/posts/mqtt-broker-selection-hivemq-vs-mosquitto-for-industrial-use/) (2026-04-20)
 - [Wildcard DNS + ndots:5: The TLS Nightmare and How to Fix It](https://guatulabs.dev/posts/wildcard-dns-ndots-5-the-tls-nightmare-and-how-to-fix-it/) (2026-04-20)
 - [Self-Improving AI Infrastructure: How Your Homelab Wiki Updates Itself](https://guatulabs.dev/posts/self-improving-ai-infrastructure-how-your-homelab-wiki-updates-itself/) (2026-04-18)
-- [The 6-Layer Memory Architecture I Run for Claude Code](https://guatulabs.dev/posts/six-layer-memory-architecture-for-claude-code/) (2026-04-16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
