@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AdGuard Home: Network-Wide DNS Filtering with Failover](https://guatulabs.dev/posts/adguard-home-network-wide-dns-filtering-with-failover/) (2026-05-02)
+- [Unprivileged LXC + Docker: The runc Sysctl Permission Trap](https://guatulabs.dev/posts/unprivileged-lxc-docker-the-runc-sysctl-permission-trap/) (2026-05-01)
 - [Three-Layer Safety for Autonomous Agents: Stopping the Infinite Loop](https://guatulabs.dev/posts/three-layer-safety-autonomous-agents/) (2026-04-28)
 - [Stop Merging Broken YAML: Kubernetes Manifest Validation in CI](https://guatulabs.dev/posts/kubernetes-manifest-validation-catching-errors-before-merge/) (2026-04-25)
 - [GPU D3cold Power States: How to Brick Your Card Without Trying](https://guatulabs.dev/posts/gpu-d3cold-power-states-how-to-brick-your-card-without-trying/) (2026-04-24)
-- [cert-manager + Cloudflare DNS-01: Automated TLS for Everything](https://guatulabs.dev/posts/cert-manager-cloudflare-dns-01-automated-tls-for-everything/) (2026-04-23)
-- [SealedSecrets Key Backup: Don't Lose Your Encryption Keys](https://guatulabs.dev/posts/sealedsecrets-key-backup-don-t-lose-your-encryption-keys/) (2026-04-22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
