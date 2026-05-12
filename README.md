@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PCIe Passthrough: NIC Name Instability and MAC Pinning](https://guatulabs.dev/posts/pcie-device-passthrough-nic-name-instability-and-mac-pinning/) (2026-05-11)
 - [Vibration Monitoring Architecture: From Sensor to Dashboard](https://guatulabs.dev/posts/vibration-monitoring-architecture-from-sensor-to-dashboard/) (2026-05-08)
 - [GPU PCI Address Instability: When Your Card Moves Between Reboots](https://guatulabs.dev/posts/gpu-pci-address-instability-when-your-card-moves-between-reboots/) (2026-05-05)
 - [Cognitive Memory for Agents: Vector Search vs Activation-Based Recall](https://guatulabs.dev/posts/cognitive-memory-for-agents-vector-search-vs-activation-based-recall/) (2026-05-03)
 - [AdGuard Home: Network-Wide DNS Filtering with Failover](https://guatulabs.dev/posts/adguard-home-network-wide-dns-filtering-with-failover/) (2026-05-02)
-- [Unprivileged LXC + Docker: The runc Sysctl Permission Trap](https://guatulabs.dev/posts/unprivileged-lxc-docker-the-runc-sysctl-permission-trap/) (2026-05-01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
