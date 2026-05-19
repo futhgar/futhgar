@@ -35,8 +35,8 @@ I take on consulting projects when the problem is interesting. If you're figurin
 
 <!-- BLOG-POST-LIST:START -->
 - [Privacy-Routed LLM Inference: Keeping Sensitive Data Out of the Cloud](https://guatulabs.dev/posts/privacy-routed-llm-inference-local-models-for-sensitive-data/) (2026-05-15)
-- [Kyverno Admission Controllers: Policy-as-Code That Actually Works](https://guatulabs.dev/posts/kyverno-admission-controllers-policy-as-code-that-actually-works/) (2026-05-13)
 - [Tailscale Subnet Routers: Accessing Your LAN Without the VPN Headache](https://guatulabs.dev/posts/tailscale-subnet-router-remote-access-without-traditional-vpn/) (2026-05-13)
+- [Kyverno Admission Controllers: Policy-as-Code That Actually Works](https://guatulabs.dev/posts/kyverno-admission-controllers-policy-as-code-that-actually-works/) (2026-05-13)
 - [PCIe Passthrough: NIC Name Instability and MAC Pinning](https://guatulabs.dev/posts/pcie-device-passthrough-nic-name-instability-and-mac-pinning/) (2026-05-11)
 - [Vibration Monitoring Architecture: From Sensor to Dashboard](https://guatulabs.dev/posts/vibration-monitoring-architecture-from-sensor-to-dashboard/) (2026-05-08)
 <!-- BLOG-POST-LIST:END -->
