@@ -36,8 +36,8 @@ I take on consulting projects when the problem is interesting. If you're figurin
 <!-- BLOG-POST-LIST:START -->
 - [Proxmox Cluster Quorum: How Many Nodes Do You Actually Need](https://guatulabs.dev/posts/proxmox-cluster-quorum-how-many-nodes-do-you-actually-need/) (2026-05-18)
 - [Privacy-Routed LLM Inference: Keeping Sensitive Data Out of the Cloud](https://guatulabs.dev/posts/privacy-routed-llm-inference-local-models-for-sensitive-data/) (2026-05-15)
-- [Tailscale Subnet Routers: Accessing Your LAN Without the VPN Headache](https://guatulabs.dev/posts/tailscale-subnet-router-remote-access-without-traditional-vpn/) (2026-05-13)
 - [Kyverno Admission Controllers: Policy-as-Code That Actually Works](https://guatulabs.dev/posts/kyverno-admission-controllers-policy-as-code-that-actually-works/) (2026-05-13)
+- [Tailscale Subnet Routers: Accessing Your LAN Without the VPN Headache](https://guatulabs.dev/posts/tailscale-subnet-router-remote-access-without-traditional-vpn/) (2026-05-13)
 - [PCIe Passthrough: NIC Name Instability and MAC Pinning](https://guatulabs.dev/posts/pcie-device-passthrough-nic-name-instability-and-mac-pinning/) (2026-05-11)
 <!-- BLOG-POST-LIST:END -->
 
