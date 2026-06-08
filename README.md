@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Grafana Dashboards: Information Density vs Readability](https://guatulabs.dev/posts/grafana-dashboards-information-density-vs-readability/) (2026-06-03)
+- [Kubernetes RBAC: Building Least-Privilege Service Accounts](https://guatulabs.dev/posts/kubernetes-rbac-building-least-privilege-service-accounts/) (2026-06-01)
+- [Building Agent Skills: A Pattern for Discoverable Capabilities](https://guatulabs.dev/posts/building-agent-skills-a-pattern-for-discoverable-capabilities/) (2026-05-29)
 - [Cloudflare DNS-01: Fixing the Gap Between Automation and Reality](https://guatulabs.dev/posts/cloudflare-dns-01-challenges-automating-certificate-issuance/) (2026-05-27)
 - [Tesla P40 in a Homelab: 24GB of Inference on a Budget](https://guatulabs.dev/posts/tesla-p40-in-a-homelab-24gb-of-inference-on-a-budget/) (2026-05-25)
-- [Condition-Based vs Time-Based Maintenance: Making the Switch](https://guatulabs.dev/posts/condition-based-vs-time-based-maintenance-making-the-switch/) (2026-05-22)
-- [Longhorn Volume Health: The Gap Between 'Healthy' and Actually Working](https://guatulabs.dev/posts/longhorn-volume-health-monitoring-replication-and-capacity/) (2026-05-20)
-- [Proxmox Cluster Quorum: How Many Nodes Do You Actually Need](https://guatulabs.dev/posts/proxmox-cluster-quorum-how-many-nodes-do-you-actually-need/) (2026-05-18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
