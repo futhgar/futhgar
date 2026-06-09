@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge Computing for IIoT: When to Process at the Source](https://guatulabs.dev/posts/edge-computing-for-iiot-when-to-process-at-the-source/) (2026-06-05)
 - [Grafana Dashboards: Information Density vs Readability](https://guatulabs.dev/posts/grafana-dashboards-information-density-vs-readability/) (2026-06-03)
 - [Kubernetes RBAC: Building Least-Privilege Service Accounts](https://guatulabs.dev/posts/kubernetes-rbac-building-least-privilege-service-accounts/) (2026-06-01)
 - [Building Agent Skills: A Pattern for Discoverable Capabilities](https://guatulabs.dev/posts/building-agent-skills-a-pattern-for-discoverable-capabilities/) (2026-05-29)
 - [Cloudflare DNS-01: Fixing the Gap Between Automation and Reality](https://guatulabs.dev/posts/cloudflare-dns-01-challenges-automating-certificate-issuance/) (2026-05-27)
-- [Tesla P40 in a Homelab: 24GB of Inference on a Budget](https://guatulabs.dev/posts/tesla-p40-in-a-homelab-24gb-of-inference-on-a-budget/) (2026-05-25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
