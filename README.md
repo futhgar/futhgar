@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTofu State in MinIO: An S3-Compatible Backend for IaC](https://guatulabs.dev/posts/opentofu-state-in-minio-s3-compatible-backend-for-iac/) (2026-06-19)
 - [CloudNativePG: Running PostgreSQL in Kubernetes Without the Pain](https://guatulabs.dev/posts/cloudnativepg-running-postgresql-in-kubernetes-without-the-pain/) (2026-06-15)
 - [Proxmox Backup Server: Incremental Backups for Your Whole Cluster](https://guatulabs.dev/posts/proxmox-backup-server-incremental-backups-for-your-whole-cluster/) (2026-06-15)
 - [Network Policies with Calico: Default Deny and Namespace Isolation](https://guatulabs.dev/posts/network-policies-with-calico-default-deny-and-namespace-isolation/) (2026-06-11)
 - [Agent Glass-Break Patterns: Controlled Escalation for Production](https://guatulabs.dev/posts/agent-glass-break-patterns-controlled-escalation-for-production/) (2026-06-10)
-- [Velero + MinIO: Kubernetes Backup Strategy for Bare Metal](https://guatulabs.dev/posts/velero-minio-kubernetes-backup-strategy-for-bare-metal/) (2026-06-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
