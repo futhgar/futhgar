@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Vector DB Snapshots Are Landing on the Same Disk That Will Fail](https://guatulabs.dev/posts/your-vector-db-snapshots-are-landing-on-the-same-disk-that-will-fail/) (2026-07-03)
+- [Eviction Without Deletion: Running an ACT-R Decay Policy for Agent Memory](https://guatulabs.dev/posts/eviction-without-deletion-running-an-act-r-decay-policy-for-agent-memory-in-production/) (2026-07-01)
 - [SealedSecrets: Storing Secrets in Git Without the Risk](https://guatulabs.dev/posts/sealedsecrets-storing-secrets-in-git-without-the-risk/) (2026-06-27)
 - [MetalLB on Bare Metal: LoadBalancer Without a Cloud Provider](https://guatulabs.dev/posts/metallb-on-bare-metal-loadbalancer-without-a-cloud-provider/) (2026-06-26)
 - [OpenTofu State in MinIO: An S3-Compatible Backend for IaC](https://guatulabs.dev/posts/opentofu-state-in-minio-s3-compatible-backend-for-iac/) (2026-06-19)
-- [CloudNativePG: Running PostgreSQL in Kubernetes Without the Pain](https://guatulabs.dev/posts/cloudnativepg-running-postgresql-in-kubernetes-without-the-pain/) (2026-06-15)
-- [Proxmox Backup Server: Incremental Backups for Your Whole Cluster](https://guatulabs.dev/posts/proxmox-backup-server-incremental-backups-for-your-whole-cluster/) (2026-06-15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
