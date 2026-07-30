@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Backing Up Qdrant Snapshots Correctly: From emptyDir to NFS Persistent Backups](https://guatulabs.dev/posts/backing-up-qdrant-snapshots-correctly-from-emptydir-to-nfs-persistent-backups/) (2026-07-29)
+- [Silent Drift: Why Re-Embedding Only on Count Changes Rots Your Semantic Index](https://guatulabs.dev/posts/silent-drift-why-re-embedding-only-on-count-changes-rots-your-semantic-index/) (2026-07-15)
 - [Your Vector DB Snapshots Are Landing on the Same Disk That Will Fail](https://guatulabs.dev/posts/your-vector-db-snapshots-are-landing-on-the-same-disk-that-will-fail/) (2026-07-03)
 - [Eviction Without Deletion: Running an ACT-R Decay Policy for Agent Memory](https://guatulabs.dev/posts/eviction-without-deletion-running-an-act-r-decay-policy-for-agent-memory-in-production/) (2026-07-01)
 - [SealedSecrets: Storing Secrets in Git Without the Risk](https://guatulabs.dev/posts/sealedsecrets-storing-secrets-in-git-without-the-risk/) (2026-06-27)
-- [MetalLB on Bare Metal: LoadBalancer Without a Cloud Provider](https://guatulabs.dev/posts/metallb-on-bare-metal-loadbalancer-without-a-cloud-provider/) (2026-06-26)
-- [OpenTofu State in MinIO: An S3-Compatible Backend for IaC](https://guatulabs.dev/posts/opentofu-state-in-minio-s3-compatible-backend-for-iac/) (2026-06-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
