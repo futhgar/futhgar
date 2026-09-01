@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog Pipeline Fence Corruption: How a Naive Sed Rule Swallowed Markdown Code Blocks](https://guatulabs.dev/posts/blog-pipeline-fence-corruption-how-a-naive-sed-rule-swallowed-markdown-code-blocks/) (2026-08-31)
 - [Systemd-tmpfiles vs Plex: When /tmp Aging Breaks EAC3 Transcoding](https://guatulabs.dev/posts/systemd-tmpfiles-and-plex-when-tmp-aging-breaks-eac3-transcoding/) (2026-08-19)
 - [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://guatulabs.dev/posts/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking/) (2026-08-14)
 - [Pushgateway Heartbeat Gotcha: When ndots and NetworkPolicy Silently Eat Your Alerts](https://guatulabs.dev/posts/pushgateway-heartbeat-gotcha-ndots-and-networkpolicy-interplay/) (2026-08-12)
 - [FastMCP Agent Mail: RBAC Tokens vs Anonymous Access, and the 403 Errors in Between](https://guatulabs.dev/posts/fastmcp-agent-mail-rbac-token-vs-anonymous-lessons-from-403-errors/) (2026-08-10)
-- [Kyverno allowLatestTag Pitfalls: How Policy Can Stop Pods From Restarting](https://guatulabs.dev/posts/kyverno-allowlatesttag-pitfalls-how-policy-can-stop-pods-from-restarting/) (2026-08-07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
