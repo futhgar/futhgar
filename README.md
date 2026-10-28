@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Pipeline Fence Corruption: How a Naive Sed Rule Swallowed Markdown Code Blocks](https://guatulabs.dev/posts/blog-pipeline-fence-corruption-how-a-naive-sed-rule-swallowed-markdown-code-blocks/) (2026-08-31)
-- [Systemd-tmpfiles vs Plex: When /tmp Aging Breaks EAC3 Transcoding](https://guatulabs.dev/posts/systemd-tmpfiles-and-plex-when-tmp-aging-breaks-eac3-transcoding/) (2026-08-19)
-- [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://guatulabs.dev/posts/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking/) (2026-08-14)
-- [Pushgateway Heartbeat Gotcha: When ndots and NetworkPolicy Silently Eat Your Alerts](https://guatulabs.dev/posts/pushgateway-heartbeat-gotcha-ndots-and-networkpolicy-interplay/) (2026-08-12)
-- [FastMCP Agent Mail: RBAC Tokens vs Anonymous Access, and the 403 Errors in Between](https://guatulabs.dev/posts/fastmcp-agent-mail-rbac-token-vs-anonymous-lessons-from-403-errors/) (2026-08-10)
+- [Tailscale Exit Node Logic: Why Auto-Select Fails for Security and How to Fix It](https://guatulabs.dev/posts/tailscale-exit-node-logic-why-auto-select-fails-for-security-and-how-to-fix-it/) (2026-10-12)
+- [Systemd Config Merges: Avoiding Silent Shadowing with Drop-ins on Fedora 43](https://guatulabs.dev/posts/systemd-config-merges-avoiding-silent-shadowing-with-drop-ins-on-fedora-43/) (2026-10-09)
+- [Firewall Zone Persistence: Why firewalld Runtime Changes Vanish and How to Pin Them](https://guatulabs.dev/posts/firewall-zone-persistence-why-firewalld-runtime-changes-vanish-and-how-to-pin-them/) (2026-10-07)
+- [Invisible Text on GNOME: Fixing Qt/KDE Flatpak Theme Conflicts in Sandboxed Environments](https://guatulabs.dev/posts/invisible-text-on-gnome-fixing-qt-kde-flatpak-theme-conflicts-in-sandboxed-environments/) (2026-10-05)
+- [Trust the Tailnet, Not the Network: Automating Wi-Fi Hardening with NetworkManager Dispatchers](https://guatulabs.dev/posts/trust-the-tailnet-not-the-network-automating-wi-fi-hardening-with-networkmanager-dispatchers/) (2026-10-02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
