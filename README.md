@@ -34,11 +34,11 @@ I take on consulting projects when the problem is interesting. If you're figurin
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Dispatcher Debugging: Why Your NetworkManager Scripts Are Silently Ignored](https://guatulabs.dev/posts/dispatcher-debugging-why-your-networkmanager-scripts-are-silently-ignored/) (2026-10-16)
+- [Cleaning Up Stale Policy Routing: Removing Orphaned VPN Rules from the Kernel Table](https://guatulabs.dev/posts/cleaning-up-stale-policy-routing-removing-orphaned-vpn-rules-from-the-kernel-table/) (2026-10-14)
 - [Tailscale Exit Node Logic: Why Auto-Select Fails for Security and How to Fix It](https://guatulabs.dev/posts/tailscale-exit-node-logic-why-auto-select-fails-for-security-and-how-to-fix-it/) (2026-10-12)
 - [Systemd Config Merges: Avoiding Silent Shadowing with Drop-ins on Fedora 43](https://guatulabs.dev/posts/systemd-config-merges-avoiding-silent-shadowing-with-drop-ins-on-fedora-43/) (2026-10-09)
 - [Firewall Zone Persistence: Why firewalld Runtime Changes Vanish and How to Pin Them](https://guatulabs.dev/posts/firewall-zone-persistence-why-firewalld-runtime-changes-vanish-and-how-to-pin-them/) (2026-10-07)
-- [Invisible Text on GNOME: Fixing Qt/KDE Flatpak Theme Conflicts in Sandboxed Environments](https://guatulabs.dev/posts/invisible-text-on-gnome-fixing-qt-kde-flatpak-theme-conflicts-in-sandboxed-environments/) (2026-10-05)
-- [Trust the Tailnet, Not the Network: Automating Wi-Fi Hardening with NetworkManager Dispatchers](https://guatulabs.dev/posts/trust-the-tailnet-not-the-network-automating-wi-fi-hardening-with-networkmanager-dispatchers/) (2026-10-02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
